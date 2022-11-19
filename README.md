@@ -1,4 +1,4 @@
-<!--
+<![Image of a lonely cat] (https://images.search.yahoo.com/search/images?p=lonely+cat+pic&fr=mcafee&type=E211US714G0&imgurl=https%3A%2F%2Fcattention.com%2Fwp-content%2Fuploads%2F2016%2F10%2FDo-cats-get-lonely_.jpg#id=5&iurl=https%3A%2F%2Fcattention.com%2Fwp-content%2Fuploads%2F2016%2F10%2FDo-cats-get-lonely_.jpg&action=click)
   <<< Author notes: Header of the course >>>
   Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
   In your repository settings: enable template repository, add your 1280×640 social image, auto delete head branches.
